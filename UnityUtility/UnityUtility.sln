@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityUtility.Editor.Helper", "UnityUtility.Editor.Helper\UnityUtility.Editor.Helper.csproj", "{DCD4B167-97A0-41DF-BF73-3BC0CC196D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityUtility.Game.Helper", "UnityUtility.Game.Helper\UnityUtility.Game.Helper.csproj", "{DD09438C-0849-43A6-A4DF-847AF51B678D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{DCD4B167-97A0-41DF-BF73-3BC0CC196D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCD4B167-97A0-41DF-BF73-3BC0CC196D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCD4B167-97A0-41DF-BF73-3BC0CC196D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD09438C-0849-43A6-A4DF-847AF51B678D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD09438C-0849-43A6-A4DF-847AF51B678D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD09438C-0849-43A6-A4DF-847AF51B678D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD09438C-0849-43A6-A4DF-847AF51B678D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
